@@ -3,6 +3,13 @@
 // https://t.me/recouse
 //
 
+// this will make the color modular
+// you can change it later in PC : Setting > edit theme
+
+bar_color_left : #007769;
+
+// other settings : 
+
 windowBg: #FFFFFF;
 windowFg: #000000;
 windowBgOver: #EEEEEE;
@@ -148,7 +155,7 @@ dialogsSentIconFgOver: dialogsSentIconFg;
 dialogsUnreadBgOver: dialogsUnreadBg;
 dialogsUnreadBgMutedOver: dialogsUnreadBgMuted;
 dialogsUnreadFgOver: dialogsUnreadFg;
-dialogsBgActive: #E9EBEB;
+dialogsBgActive: bar_color_left;
 dialogsNameFgActive: #000000;
 dialogsChatIconFgActive: #000000;
 dialogsDateFgActive: #000000;
